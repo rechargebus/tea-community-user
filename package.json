@@ -1,0 +1,24 @@
+{
+  "name": "tea-community-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rechargebus/tea-community-user.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rechargebus/tea-community-user/issues"
+  },
+  "homepage": "https://github.com/rechargebus/tea-community-user#readme",
+  "dependencies": {
+    "alchemy-sdk": "^3.2.1",
+    "ethers": "^6.12.0",
+    "tea-community-id": "^1.0.1"
+  }
+}
